@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,c,git,github" />
 
 </p>
 
@@ -39,21 +39,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PGGAMER9911&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PGGAMER9911&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/PGGAMER9911">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="#">
+  <a href="https://www.fiverr.com/s/qDaQ9m9">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="SOON !!">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
