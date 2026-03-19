@@ -26,14 +26,11 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Staff Management System**  
+- 🔹 **Staff Management System **  
   → Real-time tracking system with secure backend logic  
 
 - 🔹 **Automation Bot**  
   → Multi-functional bot for handling workflows & tasks  
-
-- 🔹 **Server-side Systems**  
-  → Designed scalable logic-based systems & tools  
 
 ---
 
