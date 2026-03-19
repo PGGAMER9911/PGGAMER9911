@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm PG</h1>
+<h3 align="center">Web Developer • Backend Systems • Automation</h3>
 
-<!--
-**PGGAMER9911/PGGAMER9911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real+World+Systems;Backend+%7C+Automation+%7C+Tools;Always+Learning+New+Tech" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Focused on **Web Development & Backend Systems**
+- ⚡ Building **automation tools, bots & real-time systems**
+- 🎮 Experience with **complex system logic & server-side architecture**
+- 📚 Currently learning **advanced development concepts**
+- 🔥 Goal: Build **scalable & impactful projects**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔹 **Staff Management System**  
+  → Real-time tracking system with secure backend logic  
+
+- 🔹 **Automation Bot**  
+  → Multi-functional bot for handling workflows & tasks  
+
+- 🔹 **Server-side Systems**  
+  → Designed scalable logic-based systems & tools  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Mindset
+> I don’t just write code.  
+> I build systems that solve real problems.
+
+---
+
+<p align="center">
+  ⭐ From <b>PG</b> | Building something better every day
+</p>
