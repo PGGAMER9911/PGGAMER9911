@@ -47,7 +47,7 @@
   <a href="https://github.com/PGGAMER9911">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.fiverr.com/s/qDaQ9m9">
+  <a href="https://www.fiverr.com/sellers/pggamer9911">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
   <a href="SOON !!">
